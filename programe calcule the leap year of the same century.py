@@ -14,7 +14,5 @@ def Annee_bissextile(siecle):
             Annee_b.append(siecle1)
 
     return Annee_b
-https://github.com/Yahyazaizi/Is-the-leap-year-of-the-same-century/tree/main
-
 Siecle = int(input("Saisire le siecle :"))
 print(f"Les annees bissextile du siecle {Siecle} est", Annee_bissextile(Siecle))
